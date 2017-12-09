@@ -1,0 +1,12 @@
+<resources>
+    <!-- owncloud/nextcloud -->
+    <string name="app_name">owncloud Bookmarks</string>
+    <string name="oc_bookmark_login">Identifiant ownCloud Bookmark</string>
+
+    <!-- login errors -->
+
+    <string name="login_failed">L\'identification a échoué. Vérifiez que\n
+       • L\'URL est correcte.\n
+       • Le nom d\'utilisateur/mot de passe sont corrects.\n
+       • Bookmark App v0.10.2 ou supérieur est installé sur votre ownCloud</string>
+</resources>
